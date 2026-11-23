@@ -1,0 +1,34 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "廣孝歸宗論（DRS 431236545） / Guang xiao gui zong lun: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-23",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/guang-xiao-gui-zong/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/guang-xiao-gui-zong",
+  "abstract": "Guang xiao gui zong lun is a Chinese Christian broadside attributed in the catalog to Alexander Williamson and dated there to the 1870s in Fuzhou. It quotes Confucius on filial piety and draws on duties to parents and rulers to argue that honoring God is the foundation of filial conduct. It illustrates divine beneficence through provisions such as food and clothing, then argues against turning to other deities or the Buddha for pardon. A study published by Academia Sinica quotes a matching opening passage from Williamson’s 1858 essay Lun xiao. This dataset transcribes the full broadside and records column locations for comparison across nineteenth-century print genres.\n\nThis dataset uses 1 fixed image from Harvard-Yenching Library DRS 431236545. The main text is transcribed from 1 page. The AI-reviewed JSON, TXT and TEI transcription retains 23 unresolved comparison items. Full human collation is outstanding.",
+  "keywords": [
+    "福州傳教印刷",
+    "Missionary printing in Fuzhou",
+    "韋廉臣",
+    "Alexander Williamson",
+    "孝道",
+    "Filial piety",
+    "儒家倫理與基督教",
+    "Confucian ethics and Christianity",
+    "六合叢談",
+    "Liuhe congtan",
+    "晚清華文基督教單張",
+    "Late Qing Chinese Christian broadsides",
+    "古籍轉錄",
+    "Historical text transcription"
+  ]
+}
